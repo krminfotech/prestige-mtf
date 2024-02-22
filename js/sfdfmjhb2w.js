@@ -35,5 +35,5 @@ $('.trip-carousal .owl-carousel').owlCarousel({
     autoplayTimeout: 5000,
     autoplayHoverPause: true,
     loop: true,
-    navText: ["<img src='../images/common/left_arrw.png'>", "<img src='../images/common/right_arrw.png'>"],
+    navText: ["<img src='./images/common/left_arrw.png'>", "<img src='./images/common/right_arrw.png'>"],
 });

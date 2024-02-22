@@ -5,7 +5,7 @@ $('.homeslide-carousal .owl-carousel').owlCarousel({
     dotsEach: true,
     mouseDrag: false,
     loop: true,
-    navText: ["<img src='../images/home/top_arrw.png'>", "<img src='../images/home/down_arrw.png'>"],
+    navText: ["<img src='./images/home/top_arrw.png'>", "<img src='./images/home/down_arrw.png'>"],
 });
 $('.homemobile-carousal .owl-carousel').owlCarousel({
     items: 2,
@@ -36,7 +36,7 @@ $('.city-carousal .owl-carousel').owlCarousel({
     autoplayTimeout: 5000,
     autoplayHoverPause: true,
     loop: true,
-    navText: ["<img src='../images/common/left_arrw.png'>", "<img src='../images/common/right_arrw.png'>"],
+    navText: ["<img src='./images/common/left_arrw.png'>", "<img src='./images/common/right_arrw.png'>"],
 });
 
 $('.review-carousal .owl-carousel').owlCarousel({
@@ -49,7 +49,7 @@ $('.review-carousal .owl-carousel').owlCarousel({
     autoplayTimeout: 5000,
     autoplayHoverPause: true,
     loop: true,
-    navText: ["<img src='../images/common/left_arrw.png'>", "<img src='../images/common/right_arrw.png'>"],
+    navText: ["<img src='./images/common/left_arrw.png'>", "<img src='./images/common/right_arrw.png'>"],
     responsive: {
         0:{
         items: 1
