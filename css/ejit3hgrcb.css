@@ -261,6 +261,13 @@
     border: none;
     border-radius: 3px;
     font-size: 15px;
+}button.membershp:hover{
+    background: transparent linear-gradient(90deg, #004F76 0%, #044f75 100%);
+    color: #ffffff;
+    padding: 13px 20px;
+    border: none;
+    border-radius: 3px;
+    font-size: 15px;
 }div.prent_memb{
     position: absolute;
     bottom: 70px;
