@@ -100,7 +100,7 @@ nav .navbar-brand img {
 nav .nav-link button {
     background: transparent linear-gradient(90deg, #FFC769 0%, #FFB435 100%);
     border-radius: 3px;
-    padding: 14px 28px;
+    padding: 11px 28px;
     border: none;
     color: #fff;
     font-size: 12px;
@@ -183,10 +183,17 @@ footer .input-group input {
 footer .input-group-text {
     background: transparent linear-gradient(90deg, #FFC769 0%, #FFB435 100%) !important;
     color: #fff;
-    padding: 0.9rem 1rem;
+    padding: 1.3rem 1rem;
     border: 2px solid #dccfcf !important;
     border-radius: 2px;
     border-left: none !important;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+footer .input-group-text:hover {
+    background: transparent linear-gradient(90deg, #004F76 0%, #044f75 100%) !important; 
 }
 
 footer .input-group input::placeholder {
