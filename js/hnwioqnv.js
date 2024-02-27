@@ -8,7 +8,7 @@ $('.pictures-carousal .owl-carousel').owlCarousel({
     autoplay: true,
     autoplayTimeout: 5000,
     autoplayHoverPause: true,
-    navText: ["<img src='./images/packages/left.png'>", "<img src='./images/packages/right.png'>"],
+    navText: ["<img src='../images/packages/left.png'>", "<img src='../images/packages/right.png'>"],
     responsive: {
         0:{
         items: 1
@@ -37,7 +37,7 @@ $('.topc-carousal .owl-carousel').owlCarousel({
     autoplay: true,
     autoplayTimeout: 5000,
     autoplayHoverPause: true,
-    navText: ["<img src='./images/packages/left.png'>", "<img src='./images/packages/right.png'>"],
+    navText: ["<img src='../images/packages/left.png'>", "<img src='../images/packages/right.png'>"],
     responsive: {
         0:{
         items: 1
