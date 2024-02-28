@@ -378,7 +378,7 @@ footer small {
 
 @media(min-width: 768px) and (max-width: 1200px) {
     footer .input-group-text, footer .input-group input {
-        padding: 0.7rem 1rem;
+        /* padding: 0.7rem 1rem; */
     }
 
     footer .foot1, footer .foot2, footer .foot3 {
@@ -425,7 +425,7 @@ footer small {
     }
 
     footer .input-group-text, footer .input-group input {
-        padding: 0.7rem 1rem;
+        /* padding: 0.7rem 1rem; */
     }
 
     footer .copyrght {
