@@ -43,6 +43,8 @@
     padding: 10px 35px;
     border: none;
     font-size: 14px;
+}.detl_bgf1 button:hover {
+    background: #FFB435;
 }.ejit3_bgsl p{
     margin-bottom: 30px;
     font-size: 22px;
