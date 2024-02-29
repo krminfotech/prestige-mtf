@@ -22,7 +22,13 @@
 }.start_bg1 h3{
     font-size: 50px;
     font-weight: 900;
-}.pictures-carousal .txts{
+}
+@media only screen and (max-width: 600px) {
+    .start_bg1 h3{
+        font-size: 45px;
+    }
+}
+.pictures-carousal .txts{
     position: absolute;
     bottom: 0px;
     left: 0;
